@@ -1,0 +1,24 @@
+#bar{
+    color: rgb(187, 43, 43);
+    background-color: greenyellow;
+}
+*{
+    margin:0;
+    padding:0;
+}
+main{
+    height: 500px;
+    background-color: antiquewhite;
+}
+#product{
+    /* background-image: url(./Halfkudti.jfif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; */
+    width: 300px;
+    height: 400px;
+
+    background: green url(./Halfkudti.jfif) no-repeat center;
+    
+
+}
