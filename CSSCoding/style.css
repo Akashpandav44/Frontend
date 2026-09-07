@@ -1,0 +1,24 @@
+caption {
+    font: bold;
+    color: brown;
+    font-size: 1.5em;
+}
+th {
+    font:bold;
+    font-size: 1.2em;
+    color: rgb(207, 43, 43);
+}
+td {
+    font:normal;
+    font-size: 1em;
+    color: rgb(91, 19, 19);    
+
+}
+#name{
+    font-size: large;
+    color: hotpink;
+}
+.description{
+    font-size: medium;
+    color: rgb(81, 106, 189);
+}
