@@ -1,0 +1,18 @@
+h1{
+    color:red;
+}
+#heading{
+    color:darkorange;
+}
+#div_22{
+    color:chartreuse;
+}
+p{
+    color:blue;
+}
+.second{
+    color:green;
+}
+#first , #second{
+    color: khaki;
+}
