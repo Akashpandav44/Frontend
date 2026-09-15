@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.progress-continer{
+    height: 25px;
+    width: 90%;
+    background-color: rgb(219, 219, 104);
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    left: 4%;
+}
+.progress-bar{
+    background-color: blueviolet;
+    height: 100%;
+    border-radius: 20%;
+
+    animation-name: animate;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+
+    animation-iteration-count: 2;
+
+
+}
+@keyframes animate {
+
+    0% {
+        width: 0%;
+
+    }
+    90%{
+        width: 95%;
+    }
+    95% {
+        width: 70%;
+    }
+    100% {
+        width: 100%;
+
+    }
+    
+}
